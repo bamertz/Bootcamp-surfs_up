@@ -10,7 +10,7 @@ Gather temperature data for June & December in Oahu for W. Avy so he can determi
 * Oahu's minimum temperature is 64 degrees farenheight in June. Oahu's minimum temperature is 56 degrees farenheight in December. 
 * Oahu's maximum temperature is 85 degrees farenheight in June. Oahu's maximum temperature is 83 degrees farenheight in December.
 
-
+![June Temperature Summary](Data/june_temps_summary.png)  ![December Temperature Summary](Data/dec_temps_summary.png)
 
 ##Summary
 
